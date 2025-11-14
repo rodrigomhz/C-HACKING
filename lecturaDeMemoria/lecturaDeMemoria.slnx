@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="lecturaDeMemoria/lecturaDeMemoria.vcxproj" />
+  <Project Path="lecturaDeMemoria/lecturaDeMemoria.vcxproj" Id="041e6353-a3f5-4efb-aeba-29c96db4734a" />
 </Solution>
